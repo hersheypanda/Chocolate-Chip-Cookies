@@ -19,7 +19,8 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
 - 2 large eggs
-
+## Test new Ingredients
+4 prunes
 
 ##Dry Ingredients
 - 2 1/4 cups all-purpose flour
